@@ -1,6 +1,12 @@
 # Data-Science_Habi
-Materias maestría en estadística UNAL Big Data y Mineria de datos / Concurso Habi 
+Maestría en Estadística 
+Universidad Nacional de Colombia
+Big Data y Mineria de datos - Concurso Habi ''El algoritmo es correcto''
 
-https://mapas.bogota.gov.co/?l=650 : Archivo .shp
-https://geopandas.org/docs/user_guide/set_operations.html : Saber donde está cada predio
-https://www.dineroeneltiempo.com/peso-colombiano : Calculo valor IPC a precio 2020
+Dentro del archivo _Habi_Concurso.ipynb_ se encuentra la metodología correspondiente desarrollada para dar la solución a la problemática.
+
+**Recursos de datos**
+Catastro: https://mapas.bogota.gov.co/?l=650 - Archivo .shp
+Lectura datos: https://geopandas.org/docs/user_guide/set_operations.html - Saber donde está cada predio
+
+
