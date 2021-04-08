@@ -3,7 +3,7 @@ Maestría en Estadística
 Universidad Nacional de Colombia
 Big Data y Mineria de datos - Concurso Habi ''El algoritmo es correcto''
 
-Dentro del archivo _Habi_Concurso.ipynb_ se encuentra la metodología correspondiente desarrollada para dar la solución a la problemática.
+Dentro del archivo _Habi_Concurso.ipynb_ se encuentra la metodología desarrollada para dar solución al problema planteado.
 
 **Recursos de datos**
 
